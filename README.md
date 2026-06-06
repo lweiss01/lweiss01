@@ -12,11 +12,12 @@ I am an indie developer and a hands-on maker. Everything I know comes from rolli
 
 I write a lot of Python, Kotlin, and React, usually focused on offline utility, tight design loops, and hardware integration. Here’s what’s active on my workbench right now:
 
-*   **📈 Trade Hunter:** A local Python app designed to monitor and parse prediction markets locally with a responsive dashboard.
-*   **📦 holistic:** An npm package focused on checkpoint-based repo memory systems. Currently refactoring to keep context durable and clean without the bloat.
-*   **🌐 NewsThread:** A local-first news utility. I am bypassing the cloud to explore on-device semantic embeddings and local matching, all wrapped in a clean, distraction-free UI.
-*   **📁 filetrx & pdf2epub:** Small, high-utility tools built to solve specific friction points in moving and converting data without tracking scripts or ugly layouts.
-*   **🏡 Home Assistant & 🖨️ Additive Manufacturing:** My physical stack, which includes designing customized, high-fidelity dashboards, managing dense Zigbee sensor networks, and tuning hardware to get perfect, clean PETG prints.
+*   **📈 Trade Hunter:** A local Python application for monitoring prediction markets, featuring anomaly detection and multi-tier ticker support.
+*   **👁️ pmwatch:** An open-source anomaly detector for Kalshi prediction markets that flags unusual trading patterns preceding public announcements.
+*   **📦 holistic:** An npm package for checkpoint-based repository memory systems, focusing on durable context without conversational bloat.
+*   **🌐 NewsThread:** A local-first news utility that uses on-device semantic embeddings for offline tracking and local matching.
+*   **📁 filetrx & pdf2epub:** Specialized, script-free utilities built for moving and converting data locally without external tracking.
+*   **🏡 Home Assistant & 🖨️ Additive Manufacturing:** My physical stack, which includes customized dashboards, dense Zigbee networks, and finely-tuned PETG hardware prints.
 
 ---
 
