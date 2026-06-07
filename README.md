@@ -1,4 +1,4 @@
-# Hi, I'm Lisa 👋
+# Hi, I'm [Redacted]👋
 
 I am an indie developer and a hands-on maker. Everything I know comes from rolling up my sleeves and building the tools I actually need to run my day-to-day life. I prefer practical, local-first utility over trendy tech stacks, focusing my energy on solving interesting software puzzles, keeping my data private, and making my physical surroundings work for me. 
 
