@@ -31,7 +31,7 @@ I write a lot of Python, Kotlin, and React, usually focused on offline utility, 
 
 ---
 
-### 🌌 Beyond the Terminal
+### 🌌 Beyond the Keyboard
 
 When I'm not working on one of these side projects, I'm probably:
 *   🌱 Spending a sunny afternoon tackling projects out in the yard.
