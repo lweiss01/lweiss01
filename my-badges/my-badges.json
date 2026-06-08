@@ -1,12 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/lweiss01/news-thread/commit/aea86b1fb9a79f3d1ee7916465ef7b554b568117\"><strong>a</strong>ea86b1fb9a79f3d1ee7916465ef7b554b568117</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
@@ -45,29 +38,8 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 471 times)\n2. phase (used 277 times)\n3. added (used 225 times)\n4. claude (used 180 times)\n5. update (used 179 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 473 times)\n2. phase (used 277 times)\n3. added (used 225 times)\n4. update (used 180 times)\n5. claude (used 180 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/command-center/commit/7912c018d09043141631f4c292882f52ee3acbe0\">7912c01</a>: fix: darken left pane and replace ambiguous project row signals with explicit labels\n- <a href=\"https://github.com/lweiss01/command-center/commit/4e8961146b98c5c40852b76b708d3a98de5afe5c\">4e89611</a>: fix: center empty state in right pane\n- <a href=\"https://github.com/lweiss01/command-center/commit/6db1a603f6f82dc8ba3026a7a7c146c49ce2f9c1\">6db1a60</a>: fix: loading bug; warm off-black palette, indigo accent, desaturated status colors",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "fix-4",
-    "tier": 3,
-    "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/command-center/commit/09ae5ae162179b2eb5d79ec2b69274787686124e\">09ae5ae</a>: fix: distinguish connected-empty from healthy backend state\n- <a href=\"https://github.com/lweiss01/command-center/commit/5d3b3a98455c95158bca591c093f8d652d0cedb5\">5d3b3a9</a>: fix: remove invalid CSS token name causing build warnings\n- <a href=\"https://github.com/lweiss01/command-center/commit/8ae81390f7716aa773a07e598c7c5676e6c168da\">8ae8139</a>: fix: align backend status indicator with plan endpoint health\n- <a href=\"https://github.com/lweiss01/command-center/commit/6566ebeef07338028d0292aae5e4058da5a33e7d\">6566ebe</a>: fix: surface project plan load failures prominently",
-    "image": "https://my-badges.github.io/my-badges/fix-4.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/paydirt/commit/5d21b8fb7760d4ba55f76af180d205311fb79acc\">5d21b8f</a>: fix(androidTest): stabilize S08 live proof flows on Android 16\n- <a href=\"https://github.com/lweiss01/paydirt/commit/9bb896aec6c0ae123152c6e4c84c7fe4341baac5\">9bb896a</a>: fix(M001/S05): recover home behavior loop on main",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-5",
@@ -77,25 +49,11 @@
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
-    "id": "github-anniversary-5",
-    "tier": 0,
-    "desc": "I joined GitHub 5 years ago.",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/command-center/commit/b3bda69b849ac278af0d9e81649d8ca0383b5125\">b3bda69</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
