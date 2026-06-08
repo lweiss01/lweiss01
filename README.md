@@ -40,4 +40,5 @@ Horror fiction, aurora forecasts, and a rescue dog named Bean. And yard work, th
 <!-- my-badges start -->
 <!-- my-badges end -->
 
+---
 *Local first. Built to last.*
