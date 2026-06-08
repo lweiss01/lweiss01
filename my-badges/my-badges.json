@@ -1,0 +1,156 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/lweiss01/news-thread/commit/aea86b1fb9a79f3d1ee7916465ef7b554b568117\"><strong>a</strong>ea86b1fb9a79f3d1ee7916465ef7b554b568117</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/lweiss01/command-center/commit/aba49b8c918a6c65a6f2bd9140359fd9893136b0\"><strong>ab</strong>a49b8c918a6c65a6f2bd9140359fd9893136b0</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/lweiss01/command-center/commit/e0b6f0d72f1f65fb23ac8dd1fe2a0243d2c4cafe\">e0b6f0d72f1f65fb23ac8dd1fe2a0243d2c4<strong>cafe</strong></a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/command-center/commit/2981d98fcc79534e73188c46732e79eed1acd35a\">2981d98</a>: chore: bump version to 1.1.0\n\nMajor features added since 1.0.0:\n- Configurable workspace scan paths with Settings UI\n- Repo tagging and filtering\n- First-run onboarding with Import All\n- Add project by path validation\n- Auto-import on workspace scan\n- Repair queue with prioritized fixes\n- Portfolio health tracking",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/pmwatch/commit/4e3b4c6aa3902f25ec07b5869b08692a4e477281\">4e3b4c6</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/69057244431e5fe8884b03c9e31a30a96c21856d\">6905724</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/35495525dd0650de5923373d6008fb145412b194\">3549552</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/38a16e66e3cfe1f2d1f2c9e34e1ab83aa66ec4bd\">38a16e6</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/0e6dd082fb80461dd8d994be8c2ab0969e2c3182\">0e6dd08</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/cae0b25720e3b3e99fab5eb207a652029a30fcad\">cae0b25</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/89117a08fc386ab7a375c3fbb33ee70a118e5829\">89117a0</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/a2cd1f2844fded8c7e58466062dd31eff9d49e76\">a2cd1f2</a>\n- <a href=\"https://github.com/lweiss01/command-center/commit/f66159394a6f21c258b00a488a4e4d9a56ed164b\">f661593</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/d7f67127dca857bdd52bb3cbdbe872234e3a83fc\">d7f6712</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/92602772f4e0c050ac9376a6969d904ca8501cc2\">9260277</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/40dba37de0ec5efbb5442a3b4f46bae2f9f83bc7\">40dba37</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/45530b68174733546fa0b9a83ac46bb47acb381e\">45530b6</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/3b7582747840b51848ab4be3e23f862c9b7c2c33\">3b75827</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/5c3f05af6ad9b0c14c6a76d5d4654da093796b9c\">5c3f05a</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/03439ac66787a9909f982774daa6a6bc9485e5dc\">03439ac</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/d92c440eb51b649f6ea73dda0e853e7ae07dba93\">d92c440</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/d062a3b9871cd6db66e00f425a6883ffb6910a50\">d062a3b</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/4a1e62f22e40f35e9c6a45eca96224de9a7c6bac\">4a1e62f</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/509c2294ec082b1100b6d10b37de2649053edc4d\">509c229</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/b31454dcdf9d01f731a742b0666362b2fb167fec\">b31454d</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/301290298d57c73aee35c9e2953140cf0c8254a6\">3012902</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/ffab5679d4fd4456fbcf5ead9a4deff449f19545\">ffab567</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/f45a93a8cf092233227c06c8474679064cbc6717\">f45a93a</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/0e1ca8a797639a1a9b6632bd1ced7500a34a2e94\">0e1ca8a</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/d1e060ea9ac77289d4f6c9417ea55bc5e49d58d0\">d1e060e</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/3b2f6cf247efd1402f42bd3092a068835258f195\">3b2f6cf</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/9b331e0767561e7b9df52719f03ea24b05392489\">9b331e0</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/89f9f0f83cfb613c43014ad47bd258def45842fb\">89f9f0f</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/b0a03dd201f7a6a093b3c18dbb6cdab85d9da5f0\">b0a03dd</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/e7cd5e1e2a15a98b567f6a3ba6a6469c51d7b47d\">e7cd5e1</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/1a3a514d7367586eedfd0a607e15cc6e3c7da9a4\">1a3a514</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/e2d5814bdcdf37e71eb213cb5a368f361e2d0633\">e2d5814</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/2a9fed52a647d18315bd00b8b013425b20b08219\">2a9fed5</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/9a886e1e0aad4492a23439a042ec4b299e1c1d29\">9a886e1</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/70f96232aec7a8859159aaed0e5d393db30d8e6a\">70f9623</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/a6c97770cac7619221f930652dcd3fd084d1b2d6\">a6c9777</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/63a76bb697f197dffb348f53f05ec1d77b717174\">63a76bb</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/096041ce2dc15c25f57ba6cb2f7f5bc90f9f677a\">096041c</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/7dbd96af3ef081bbc4e7075094495b2ad478d397\">7dbd96a</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/2b80bc1c45d8fcb47d961c1467c8632b9b1f1461\">2b80bc1</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/c4b37bb3ae0887eb13c531fa6a4c9e6285ff28a3\">c4b37bb</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/6fc317ab459a0372d021a7d7e2c9dddf1d5a39e0\">6fc317a</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/63e09d9e4530e1d3e2db3c7bfbea0a836f1d3961\">63e09d9</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/89721721af6dd8873aa96075f3f413e484af67f7\">8972172</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/c4006105aa49f918cf97886fe790174bcd2c530d\">c400610</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/e869f02fcefc18a796c0a7e6dfe4b90605e9620a\">e869f02</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/0139c3ad2738c44e10d805656c9a43e0c069c72a\">0139c3a</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/6b1a6e63caa88b917bc53dc6ad3775e7ff67c902\">6b1a6e6</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/52a04a277535e23df1c942adac7fd631ae6b21f5\">52a04a2</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/23cd17e4b91dad4ce68f7d11952cb3dbcee74d39\">23cd17e</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/31989cd70ae1cfd3b398c26483a5a15e5a2dc300\">31989cd</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/fd9332458e2d4c46c0b95a633788bdec1d071064\">fd93324</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/feea99b7d25d920debc3c172f362cb7c468c30e8\">feea99b</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/d132d6a0e8abe238f2efc884ef13707ff3b8540b\">d132d6a</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/aaf0ffdd820e35ff853c2ed9d9a5557e74fd6c1d\">aaf0ffd</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/f12a3afe2247d61e206a29b6fd74f9304b3e8fcf\">f12a3af</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/335b2cf7b443143cabe346435334e8eefcfb71a2\">335b2cf</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/c2e5cfe1ed63d3667b8d493bdac8c9ba5cde940b\">c2e5cfe</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/ea1e7b9f595af92c0c94790125b257ebdf58abef\">ea1e7b9</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/aa49caed34e675317e317f59f0b740a80117505b\">aa49cae</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/bab11c4d08c50949afa93190aba1d3bbfa0f11f0\">bab11c4</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/acf9f82e8b9bc4d5fbb401d2be0befcb942464c8\">acf9f82</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/fa3929dbc3205855afc4f9ef44fddcfdf7129466\">fa3929d</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/94029d48af5540268549e4155d9980f839058c2e\">94029d4</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/2af3dc6d5e56bc3e78f8670a1a7822cbe008c2f3\">2af3dc6</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/cac1da28ce64b0718f7246e89027214fc8f57f55\">cac1da2</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/ea49a791d5129ec88c760deac1de5b7c07e14b62\">ea49a79</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/a49d1908303ef3ddd81519ab80bebdcb2d0a7f65\">a49d190</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/208a848e18255e708a79935684e931dec6571e4a\">208a848</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/1a9982abdbe52210f291e147c1dea876e4fd44bc\">1a9982a</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/1a2ee2b2cbb330a0f3eb878613c6abdebf95de0b\">1a2ee2b</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/ed16097d9942b675705189852ddb3392cd217555\">ed16097</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/cce20bbcef255425a707c42e329bffaa81923395\">cce20bb</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/b359d11272a2643a01cb7214dc25c2e2fe2e8fd4\">b359d11</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/58dce4a82cd3f6c8bceef7253084954e61f70273\">58dce4a</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/d5112d7d785bedd7608541be2a0d2af51d49928b\">d5112d7</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/f0af17d0a223d0990b537af80e3f014508e9eec1\">f0af17d</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/b9387e2b94d2b177639e4ff591787ca249cdb731\">b9387e2</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/e2a1411449a44e5c989647f0fb9598b85219aa08\">e2a1411</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/1def5f58c4686635304dededbbf7b20fcda3a004\">1def5f5</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/ee571d6d7b468c2392aa3750bb4fd3d33ca1df5b\">ee571d6</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/ac7d26e57113939200ec9be1c046b1e41d981d83\">ac7d26e</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/2eeec5364067edbba702d9ef64e261b7544bdf01\">2eeec53</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/0cd03a75e6b0678f9680333376dd13669b7d24df\">0cd03a7</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/db67abf3f50a9a9b30b0d406df3a112abf789c62\">db67abf</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/ae13f0eda11c5c19052bd59febf39542980993cb\">ae13f0e</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/423c55fb1f116ba04ccaad5e5be01e79450f4e37\">423c55f</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/ce88309d040a52f53884b7ae26c020e303096102\">ce88309</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/74bd5e93d5ea5345fbf8999081e6bfee4476a019\">74bd5e9</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/39c1eeb0853ae1c2ad4248f650486f03da53dc92\">39c1eeb</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/c0cae8330a92e454e34c45fdaf4c416a9e1ec78f\">c0cae83</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/11027498ba5e10e2d22f16b9fceba4ed4ebb07c0\">1102749</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/6a58b682e3e15a77b2ea2dac2c335c150f5bae43\">6a58b68</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/e538df29d788f4e5b31473a31be96cbc6f7384fa\">e538df2</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/9ea3419ce17600c391394043fac8ee7224fa4537\">9ea3419</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/37f2f9683761280800c016df223f76351fc1a879\">37f2f96</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/9282cbc6049e9b6863b09eaacb0464d888bc503d\">9282cbc</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/74a143054c12f04e057df162eb663606f4ef2137\">74a1430</a>\n- <a href=\"https://github.com/lweiss01/news-thread/commit/59555a99e8ab20d57fdc473516cc684772b508bb\">59555a9</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 471 times)\n2. phase (used 277 times)\n3. added (used 225 times)\n4. claude (used 180 times)\n5. update (used 179 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/command-center/commit/7912c018d09043141631f4c292882f52ee3acbe0\">7912c01</a>: fix: darken left pane and replace ambiguous project row signals with explicit labels\n- <a href=\"https://github.com/lweiss01/command-center/commit/4e8961146b98c5c40852b76b708d3a98de5afe5c\">4e89611</a>: fix: center empty state in right pane\n- <a href=\"https://github.com/lweiss01/command-center/commit/6db1a603f6f82dc8ba3026a7a7c146c49ce2f9c1\">6db1a60</a>: fix: loading bug; warm off-black palette, indigo accent, desaturated status colors",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/command-center/commit/09ae5ae162179b2eb5d79ec2b69274787686124e\">09ae5ae</a>: fix: distinguish connected-empty from healthy backend state\n- <a href=\"https://github.com/lweiss01/command-center/commit/5d3b3a98455c95158bca591c093f8d652d0cedb5\">5d3b3a9</a>: fix: remove invalid CSS token name causing build warnings\n- <a href=\"https://github.com/lweiss01/command-center/commit/8ae81390f7716aa773a07e598c7c5676e6c168da\">8ae8139</a>: fix: align backend status indicator with plan endpoint health\n- <a href=\"https://github.com/lweiss01/command-center/commit/6566ebeef07338028d0292aae5e4058da5a33e7d\">6566ebe</a>: fix: surface project plan load failures prominently",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/paydirt/commit/5d21b8fb7760d4ba55f76af180d205311fb79acc\">5d21b8f</a>: fix(androidTest): stabilize S08 live proof flows on Android 16\n- <a href=\"https://github.com/lweiss01/paydirt/commit/9bb896aec6c0ae123152c6e4c84c7fe4341baac5\">9bb896a</a>: fix(M001/S05): recover home behavior loop on main",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/holistic/commit/3b7582747840b51848ab4be3e23f862c9b7c2c33\">3b75827</a>: fix(andon): writer self-heals + correct agent identity (Phase 2 cont.)\n\nThree issues surfaced verifying the daemon-run writer against a live session:\n\n1. The writer only asserted lifecycle status on transitions. Heartbeats merely\n   PRESERVE status, so when the API independently changed the stored status\n   (e.g. a restart reconciliation sweep parked a running row) the writer never\n   recovered. Now it re-asserts running/waiting on a periodic interval\n   (ANDON_RUNTIME_WRITER_REASSERT_MS, default 60s) so it self-heals.\n\n2. The writer reported sourceType \"file_heartbeat\" because normalizedSourceType\n   never mapped agent \"claude\" -> \"claude_code\". Added an agent-agnostic\n   agent->sourceType alias map (claude->claude_code, copilot->github_copilot,\n   gsd2->gsd, etc.) so Mission Control shows the real agent identity.\n\n3. maybeUpsertMirrorRuntimeFromLegacyEvent refused to update a row owned by a\n   prior direct source (the retired per-agent hook), freezing the session in\n   its last status and starving runtime_events (so the liveness sweep parked\n   it). A runtime-writer event — Holistic's canonical agent-agnostic liveness\n   source — may now take over such a row.\n\nVerified end-to-end: daemon spawns writer, session projects live/running with\nsourceType=claude_code, freshness fresh, ingestion active. 238 tests pass.\n\nRefs holistic-m5c (epic holistic-wws)\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>\n- <a href=\"https://github.com/lweiss01/holistic/commit/5c3f05af6ad9b0c14c6a76d5d4654da093796b9c\">5c3f05a</a>: fix(andon): agent-agnostic liveness via daemon-run runtime-writer (Phase 1+2)\n\nRoot cause of \"agent disconnected / shows running while waiting\":\n- The agent-agnostic forwarder (scripts/andon-runtime-writer.mjs) reads\n  state.json and POSTs liveness for WHATEVER agent owns the session, but the\n  daemon never started it — only the manual `npm run andon:dev` path did. So\n  in normal use nothing heartbeats and Mission Control decays to disconnected.\n- A turn-completion signal was being treated as session-end, marking active\n  sessions completed/historical and dropping them off Mission Control.\n\nPhase 1: daemon startAndonServices() now spawns the runtime-writer (like the\nAPI), tracked in owned[] and killed via killTree on shutdown. Agent-agnostic\nliveness for every agent, no per-agent hooks.\n\nPhase 2: turn-completion != session end. The writer emits session.completed\nONLY when endedAt is set; a completion signal on an active session emits\nsession.needs_input (waiting), and work resuming emits work.started (running).\nFreshness is purely state.json age (no completionSignal \"fresh forever\").\nrepository.ts: agent.summary_emitted+signal now maps to waiting_for_input,\nnot completed, so a `holistic checkpoint --reason task-complete` no longer\nflips the live session to historical.\n\nTests: rewrote the writer completion test to the new contract; added\nwork-resumes and ended-session cases; allowed getTimeline in the dashboard API\nclient test (M007 timeline panel fetcher). 238 tests pass.\n\nRefs holistic-35n holistic-m5c (epic holistic-wws)\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>\n- <a href=\"https://github.com/lweiss01/holistic/commit/03439ac66787a9909f982774daa6a6bc9485e5dc\">03439ac</a>: fix(M007): Stop hook sends session.needs_input so dashboard shows waiting state\n\nWhen Claude finishes a turn and waits for user input, the hook was firing\nagent.summary_emitted which falls through to the default \"running\" return in\nlegacyAgentEventToMirrorRuntimeStatus(). The correct event type is\nsession.needs_input → rawRuntimeStatus = \"waiting_for_input\" →\nisRuntimeNeedsActionStatus = true → category: \"needs_action\" →\nprimaryStatus: \"waiting_on_human_input\".\n\nWhen the next tool fires (first PostToolUse after user responds), the status\nresets to \"running\" automatically via the default return path.\n\nAlso adds inputNeeded: true to the payload for clarity.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/lweiss01/holistic/commit/d92c440eb51b649f6ea73dda0e853e7ae07dba93\">d92c440</a>: fix(M007): derive sourceType from state.json agent to surface session in Mission Control\n\nRoot cause: hook events posted without payload.sourceType caused\nmaybeUpsertMirrorRuntimeFromLegacyEvent to keep andonIngestMirror:true\non the runtime_sessions row. isAndonIngestMirrorSession() returning true\nset sourceOfTruth:\"mixed\", and normalizeTopLevelOperationalItem forces\nany non-\"runtime\" session to category:\"historical\" / belongsOnMissionControl:false.\n\nFix: read activeSession.agent from state.json (already loaded for sessionId)\nand map it to the correct Andon sourceType value:\n  claude   -> claude_code\n  codex    -> codex\n  cursor   -> cursor\n  copilot  -> github_copilot\n  gsd/gsd2 -> gsd\n  others   -> http_event_source (non-empty = non-mirror)\n\nAdding sourceType/sourceId/transport to every event payload sets\nisDirectAgentSourceEvent=true, which flips andonIngestMirror to false,\nsourceOfTruth to \"runtime\", and category to \"live\" in Mission Control.\n\nUpdated: renderAndonHookPs1(), renderAndonHookSh() in setup.ts.\nLive scripts in .holistic-local/system/ patched directly.\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\n- <a href=\"https://github.com/lweiss01/holistic/commit/d062a3b9871cd6db66e00f425a6883ffb6910a50\">d062a3b</a>: fix(M007): fix andon-hook.ps1 broken Invoke-RestMethod line continuation\n\nThe S01 executor wrote `` (double backtick) for PowerShell line\ncontinuation instead of ` (single backtick). In PowerShell, `` is an\nescaped literal backtick character, not line continuation — so\nInvoke-RestMethod was called with only -Uri and no -Method/-Body,\ncausing all PostToolUse events to be silently dropped.\n\nFix: collapse the multi-line Invoke-RestMethod into a single line in\nrenderAndonHookPs1() in setup.ts so holistic repair regenerates the\ncorrect script. Live script patched directly in .holistic-local/system/.\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/command-center/commit/b3bda69b849ac278af0d9e81649d8ca0383b5125\">b3bda69</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/news-thread/commit/aaf0ffdd820e35ff853c2ed9d9a5557e74fd6c1d\">aaf0ffd</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 6 my own repositories.",
+    "body": "- <a href=\"https://github.com/lweiss01/trade-hunter\">lweiss01/trade-hunter</a>\n- <a href=\"https://github.com/lweiss01/news-thread\">lweiss01/news-thread</a>\n- <a href=\"https://github.com/lweiss01/holistic\">lweiss01/holistic</a>\n- <a href=\"https://github.com/lweiss01/command-center\">lweiss01/command-center</a>\n- <a href=\"https://github.com/lweiss01/filetrx\">lweiss01/filetrx</a>\n- <a href=\"https://github.com/lweiss01/paydirt\">lweiss01/paydirt</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/lweiss01/news-thread/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/pmwatch/commit/4e3b4c6aa3902f25ec07b5869b08692a4e477281\">4e3b4c6</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/279a81d0314236f25fade616503791ea71678f78\">279a81d</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/fda34f4d55e0f766d7bf043a39f4599afe180905\">fda34f4</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/b0a03dd201f7a6a093b3c18dbb6cdab85d9da5f0\">b0a03dd</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/0a44235d44db21b21432f47574a7e77cb38284df\">0a44235</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/dad603c1c47c087124ac37a9f2c9d0da2f0619e6\">dad603c</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/lweiss01.github.io/commit/eabbf35e5d1339d0f97895bd415bd81a3368466f\">eabbf35</a>\n- <a href=\"https://github.com/lweiss01/lweiss01.github.io/commit/7c899f03bbbc6fd32f9574c817c9d6850aea2f69\">7c899f0</a>\n- <a href=\"https://github.com/lweiss01/lweiss01.github.io/commit/d38f09a514d2aa013d31951185585cdbb3476c22\">d38f09a</a>\n- <a href=\"https://github.com/lweiss01/lweiss01.github.io/commit/9c24e6e6eb8ac6fcb387ded3f64efdfd8a703588\">9c24e6e</a>\n- <a href=\"https://github.com/lweiss01/lweiss01.github.io/commit/fd64c087e8b13bd5718837aa54c435d276481990\">fd64c08</a>\n- <a href=\"https://github.com/lweiss01/newsthread.io-site/commit/18ed8338397835ca27e7d7e46a041d0b23b7b677\">18ed833</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/lweiss01/commit/19f803962c950fa3b2a1f9d14493777c5ca8881c\">19f8039</a>\n- <a href=\"https://github.com/lweiss01/lweiss01/commit/881653810fc8ca44de4528c6844c1826f53c2584\">8816538</a>\n- <a href=\"https://github.com/lweiss01/lweiss01/commit/ef4642e9fe5155d164f96d321ca2417363160b0a\">ef4642e</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/92602772f4e0c050ac9376a6969d904ca8501cc2\">9260277</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/40dba37de0ec5efbb5442a3b4f46bae2f9f83bc7\">40dba37</a>\n- <a href=\"https://github.com/lweiss01/holistic/commit/45530b68174733546fa0b9a83ac46bb47acb381e\">45530b6</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lweiss01/news-thread/commit/aaf0ffdd820e35ff853c2ed9d9a5557e74fd6c1d\">aaf0ffd</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
