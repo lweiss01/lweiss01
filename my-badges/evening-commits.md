@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/lweiss01/trade-hunter/commit/65c7847978f675e3296ff1449390c680517609e9">65c7847</a>
+- <a href="https://github.com/lweiss01/trade-hunter/commit/bdef7d836762d1c48daba76a73237785efc7e6ae">bdef7d8</a>
 - <a href="https://github.com/lweiss01/pmwatch/commit/1f5e45cde7f2cb3d4830ad9e29fa4326afdeabc6">1f5e45c</a>
 - <a href="https://github.com/lweiss01/pmwatch/commit/70f4c532b3ea543a51ab6974261f00cec0774bfc">70f4c53</a>
 - <a href="https://github.com/lweiss01/pmwatch/commit/ee3d0a6ecbd3fbe13a9d6f1fda106bc0f503bb83">ee3d0a6</a>
